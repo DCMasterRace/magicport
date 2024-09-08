@@ -1,12 +1,12 @@
 # MagicPort Exam 
 
 ### **TECHS**
-*PHP8.3  
-*node v22.8.0  
-*Laravel 11  
-*Vue3  
-*MySQL  
-*Composer  
+*PHP8.3*  
+*node v22.8.0*  
+*Laravel 11*  
+*Vue3*  
+*MySQL*  
+*Composer*  
 
 ## **----Instruction----**
 
